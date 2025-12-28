@@ -23,3 +23,4 @@ jobs:
           context: .
           push: true
           tags: ibrahimtoubeh/docker-backend:latest
+# force rebuild
